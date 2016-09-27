@@ -3,6 +3,11 @@
     "name":"Elementary Chrome Theme",
     "version": "0.1",
     "description": "elementary OS Loki Chrome Theme",
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
     "theme": {
         "images": {
             "theme_frame": "images\/theme_frame.png"
